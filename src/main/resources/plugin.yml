@@ -1,0 +1,6 @@
+name: ModernArrow
+version: Kat1.0.0
+author: MrKitty_Cat
+main: me.camdenorrb.modernarrow.ModernArrow
+
+api-version: "1.13"

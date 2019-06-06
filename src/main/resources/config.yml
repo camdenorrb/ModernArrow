@@ -1,0 +1,10 @@
+
+# Modern Arrow Config
+
+
+# Should this plugin impact mobs
+# I'll be honest, Minecraft's is better
+shouldApplyToMobs: false
+
+# Should this plugin impact players
+shouldApplyToPlayers: true

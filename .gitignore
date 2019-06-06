@@ -1,0 +1,10 @@
+
+# Intellij
+.idea
+
+# Java
+build
+*.jar
+
+# Gradle
+.gradle
